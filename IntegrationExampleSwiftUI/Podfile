@@ -6,5 +6,5 @@ target 'IntegrationExampleSwiftUI' do
   use_frameworks!
 
   # Pods for IntegrationExampleSwiftUI
-  pod 'JetPaySDK_UI', '2.0.0'
+  pod 'JetPaySDK_UI'
 end
