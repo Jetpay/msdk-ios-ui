@@ -6,5 +6,5 @@ target 'IntegrationExampleObjc' do
   use_frameworks!
 
   # Pods for IntegrationExampleObjc
-  pod 'JetPaySDK_UI', '2.0.0'
+  pod 'JetPaySDK_UI'
 end
