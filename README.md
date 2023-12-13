@@ -80,7 +80,7 @@ Listed below are the instructions on how to import the libraries via CocoaPods.
     
         target 'App' do
           # Pods for App
-          pod 'JetPaySDK_UI', '2.0.0'
+          pod 'JetPaySDK_UI'
         end
     
 2.  Add key NSCameraUsageDescription with value `permission is needed in order to scan card` to the Info.plist file.
